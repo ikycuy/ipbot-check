@@ -1,0 +1,18 @@
+{
+  "Access": true,
+  "Author": "Ikyy",
+  "data": [
+    {
+      "Nama": "Hutao",
+      "Access": true,
+      "Nomor": "6285135287568",
+      "ip": "152.42.214.189"
+    },
+    {
+      "Nama": "Hutao2",
+      "Access": true,
+      "Nomor": "6281539237901",
+      "ip": "152.42.214.189"
+    }
+  ]
+}
